@@ -55,3 +55,5 @@ C:\Users\tatim\Source\Repos\tatianademarco\Korp_Teste_TatianaMariaDemarco\backen
 C:\Users\tatim\Source\Repos\tatianademarco\Korp_Teste_TatianaMariaDemarco\backend\FaturamentoService\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\tatim\Source\Repos\tatianademarco\Korp_Teste_TatianaMariaDemarco\backend\FaturamentoService\bin\Debug\net8.0\Polly.dll
 C:\Users\tatim\Source\Repos\tatianademarco\Korp_Teste_TatianaMariaDemarco\backend\FaturamentoService\bin\Debug\net8.0\Polly.Extensions.Http.dll
+C:\Users\tatim\Source\Repos\tatianademarco\Korp_Teste_TatianaMariaDemarco\backend\FaturamentoService\obj\Debug\net8.0\FaturamentoService.sourcelink.json
+C:\Users\tatim\Source\Repos\tatianademarco\Korp_Teste_TatianaMariaDemarco\backend\FaturamentoService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

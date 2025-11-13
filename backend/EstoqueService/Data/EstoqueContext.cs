@@ -7,6 +7,6 @@ namespace EstoqueService.Data
     {
         public EstoqueContext(DbContextOptions<EstoqueContext> options) : base(options) { }
 
-        public DbSet<Produto> Produtos { get; set; }
+        public DbSet<Produto> Produtos => Set<Produto>();
     }
 }

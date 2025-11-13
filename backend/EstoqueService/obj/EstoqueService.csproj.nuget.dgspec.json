@@ -11,7 +11,7 @@
         "projectName": "EstoqueService",
         "projectPath": "C:\\Users\\tatim\\Source\\Repos\\tatianademarco\\Korp_Teste_TatianaMariaDemarco\\backend\\EstoqueService\\EstoqueService.csproj",
         "packagesPath": "C:\\Users\\tatim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tatim\\Source\\Repos\\tatianademarco\\Korp_Teste_TatianaMariaDemarco\\backend\\EstoqueService\\obj\\",
+        "outputPath": "C:\\Users\\tatim\\source\\repos\\tatianademarco\\Korp_Teste_TatianaMariaDemarco\\backend\\EstoqueService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -10,10 +10,10 @@ namespace FaturamentoService.Controllers;
 [Route("api/[controller]")]
 public class NotasFiscaisController : ControllerBase
 {
-    private readonly AppDbContext _context;
+    private readonly FaturamentoContext _context;
     private readonly IHttpClientFactory _httpClientFactory;
 
-    public NotasFiscaisController(AppDbContext context, IHttpClientFactory httpClientFactory)
+    public NotasFiscaisController(FaturamentoContext context, IHttpClientFactory httpClientFactory)
     {
         _context = context;
         _httpClientFactory = httpClientFactory;

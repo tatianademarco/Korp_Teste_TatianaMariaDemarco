@@ -8,9 +8,9 @@ namespace FaturamentoService.Filters
 {
     public class IdempotencyFilter : IAsyncActionFilter
     {
-        private readonly AppDbContext _context;
+        private readonly FaturamentoContext _context;
 
-        public IdempotencyFilter(AppDbContext context)
+        public IdempotencyFilter(FaturamentoContext context)
         {
             _context = context;
         }
