@@ -1,4 +1,4 @@
-## Sistema de Emissão de Notas Fiscais
+# Sistema de Emissão de Notas Fiscais
 
 Projeto técnico desenvolvido para a vaga de Desenvolvedor(a) Júnior — C# ou Go + Angular.
 O sistema consiste em um conjunto de microsserviços que gerenciam produtos e notas fiscais, permitindo cadastro, impressão e controle de estoque.
@@ -37,7 +37,7 @@ Estrutura de Microsserviços
 
 Comunicação entre microsserviços via HttpClientFactory, com políticas de retry implementadas pelo Polly.
 
-# Funcionalidades Implementadas:
+## Funcionalidades Implementadas:
 
 Produtos: 
 - Cadastro de novos produtos com validação de campos obrigatórios.
@@ -54,7 +54,7 @@ Concorrência:
 Idempotência:
 - Evita que operações repetidas causem efeitos indesejados.
 
-# Como Rodar o Projeto:
+## Como Rodar o Projeto:
 Pré-requisitos:
 - .NET 8 SDK
 - Node.js 20+
