@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{5453423C-BBE9-4B6D-BCCA-405FD1751DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueService", "backend\EstoqueService\EstoqueService.csproj", "{6CCB756F-F959-4D48-A823-F4D0F97A5A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaturamentoService", "backend\FaturamentoService\FaturamentoService.csproj", "{2E0111B0-4A3E-4FAD-BA8D-37D4B2E8D18E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CCB756F-F959-4D48-A823-F4D0F97A5A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCB756F-F959-4D48-A823-F4D0F97A5A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCB756F-F959-4D48-A823-F4D0F97A5A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCB756F-F959-4D48-A823-F4D0F97A5A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0111B0-4A3E-4FAD-BA8D-37D4B2E8D18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0111B0-4A3E-4FAD-BA8D-37D4B2E8D18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0111B0-4A3E-4FAD-BA8D-37D4B2E8D18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0111B0-4A3E-4FAD-BA8D-37D4B2E8D18E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6CCB756F-F959-4D48-A823-F4D0F97A5A07} = {5453423C-BBE9-4B6D-BCCA-405FD1751DCA}
+		{2E0111B0-4A3E-4FAD-BA8D-37D4B2E8D18E} = {5453423C-BBE9-4B6D-BCCA-405FD1751DCA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "backend",
+    "Projects": [
+      {
+        "Path": "backend\\EstoqueService\\EstoqueService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "backend\\FaturamentoService\\FaturamentoService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

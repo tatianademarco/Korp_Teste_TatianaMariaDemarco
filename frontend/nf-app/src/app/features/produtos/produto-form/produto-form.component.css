@@ -1,0 +1,40 @@
+.dialog-content {
+  padding: 20px;
+}
+
+.produto-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-width: 300px;
+  width: 100%;
+}
+
+.full-width {
+  width: 100%;
+}
+
+mat-dialog-content {
+  overflow: hidden !important;
+}
+
+mat-form-field {
+  background-color: #fafafa;
+  border-radius: 8px;
+}
+
+button[mat-raised-button] {
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+h2[mat-dialog-title] {
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin: 20px;
+}
+
+.buttons-action {
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
